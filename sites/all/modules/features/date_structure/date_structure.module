@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Date Structure feature.
+ */
+
+include_once 'date_structure.features.inc';
